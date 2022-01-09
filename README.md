@@ -1,7 +1,7 @@
 ## SpringProject-BigLibrary
-* You can get information about books and authors
-* You can give point to the book  
-* You can create readlist
+* get information about books and authors
+* give point to the book  
+* create readlist
 
 ## Tech
 * Spring Boot
